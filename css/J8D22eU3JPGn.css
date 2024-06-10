@@ -7286,8 +7286,31 @@ body {
   line-height: 1.8;
   font-weight: 300;
   color: gray;
-  background: url(../images/aCE2gRrGbVOE.jpg) no-repeat fixed;
-  background-size: cover; }
+  background: url(../img/body-bg.jpg) no-repeat fixed;
+  background-size: cover; 
+  height: 100px;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+
+
+.logo-container {
+  position: relative;
+}
+
+.logo {
+  width: 190px; /* Adjust size as needed */
+  height: auto;
+  position: fixed;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  opacity: 20%;
+  transform: translate(-50%, -50%);
+}
+
+  
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -7299,7 +7322,7 @@ body {
 }
 
 .brand-logo {
-  height: 45px;
+  height: 60px;
 }
 
 @media (min-width: 768px) {
@@ -7479,7 +7502,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-item > .nav-link {
       color: #fff !important; }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #254336 !important; }
+      color: #1F8548 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #254336;
@@ -7753,9 +7776,9 @@ h1, h2, h3, h4, h5,
       background: transparent;
       color: #254336; }
     .btn.btn-primary.btn-outline-primary {
-      border: 1px solid #254336;
+      border: 1px solid #1F8548;
       background: transparent;
-      color: #254336; }
+      color: #1F8548; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
         background: #254336;
@@ -7976,14 +7999,14 @@ h1, h2, h3, h4, h5,
       font-size: 18px; }
       .pricing-entry .text h3 span {
         background: #151111;
-        background: url(../images/aCE2gRrGbVOE.jpg) no-repeat fixed;
+        background: url(../img/body-bg.jpg) no-repeat fixed;
         padding-right: 20px; }
     .pricing-entry .text .price {
       width: 80px;
       color: #254336;
       text-align: right;
       background: #151111;
-      background: url(../images/aCE2gRrGbVOE.jpg) no-repeat fixed;
+      background: url(../img/body-bg.jpg) no-repeat fixed;
       font-size: 16px; }
 
 .menu-entry {
@@ -8867,7 +8890,7 @@ textarea.form-control {
   .ftco-menu .nav-pills .nav-link {
     border-radius: 0;
     margin-bottom: 0;
-    color: #254336;
+    color: #1F8548;
     font-size: 18px;
     font-weight: 400;
     position: relative;
@@ -8876,7 +8899,7 @@ textarea.form-control {
     margin-left: 5px;
     margin-right: 5px; }
     .ftco-menu .nav-pills .nav-link.active, .ftco-menu .nav-pills .nav-link:hover {
-      color: black;
+      color: white;
       -moz-transition: all 0.3s ease;
       -o-transition: all 0.3s ease;
       -webkit-transition: all 0.3s ease;
