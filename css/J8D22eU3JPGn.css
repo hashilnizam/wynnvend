@@ -7310,10 +7310,17 @@ body {
   transform: translate(-50%, -50%);
 }
 .logo-text {
-  font-size: 8px; /* Adjust size as needed */
-  color: #fff; /* Change to match your design */
-  margin-top: 6px; /* Adjust space between logo and text */
+  font-size: 8px; /* Default font size */
+  color: #fff; /* Default color */
+  margin-top: 6px; /* Default margin */
+
+  /* Media query for mobile screens */
+  @media screen and (max-width: 480px) {
+    font-size: 4px; /* Adjusted font size for smaller screens */
+    margin-top: 4px; /* Adjusted margin for smaller screens */
+  }
 }
+
   
   body.menu-show {
     overflow: hidden;
