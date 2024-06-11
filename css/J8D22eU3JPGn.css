@@ -7309,7 +7309,11 @@ body {
   opacity: 18%;
   transform: translate(-50%, -50%);
 }
-
+.logo-text {
+  font-size: 8px; /* Adjust size as needed */
+  color: #fff; /* Change to match your design */
+  margin-top: 6px; /* Adjust space between logo and text */
+}
   
   body.menu-show {
     overflow: hidden;
