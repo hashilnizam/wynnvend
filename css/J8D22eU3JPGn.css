@@ -7316,7 +7316,7 @@ body {
 
   /* Media query for mobile screens */
   @media screen and (max-width: 480px) {
-    font-size: 4px; /* Adjusted font size for smaller screens */
+    font-size: 5px; /* Adjusted font size for smaller screens */
     margin-top: 4px; /* Adjusted margin for smaller screens */
   }
 }
