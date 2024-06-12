@@ -7671,7 +7671,7 @@ h1, h2, h3, h4, h5,
             font-size: 50px; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
-              font-size: 58px; } }
+              font-size: 50px; } }
         .owl-carousel.home-slider .slider-item .slider-text p {
           font-size: 18px;
           line-height: 1.5;
@@ -9394,3 +9394,5 @@ textarea.form-control {
     .button-68:hover {
       box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
     }
+
+    
