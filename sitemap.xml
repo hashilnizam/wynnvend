@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.wynnvend.in/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://www.wynnvend.in/products.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/services.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/about.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/contact.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Blog Index -->
+  <url>
+    <loc>https://www.wynnvend.in/blog.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://www.wynnvend.in/blog1.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/blog2.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/blog3.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Product Detail Pages -->
+  <url>
+    <loc>https://www.wynnvend.in/milaana-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/nature-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/ayur-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/heritage-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/vende-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.wynnvend.in/vende-bag-single.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
